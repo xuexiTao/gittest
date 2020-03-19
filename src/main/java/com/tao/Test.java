@@ -5,5 +5,6 @@ public class Test {
 
         System.out.println("加油 加油 加油");
         System.out.println("吃饭 吃饭 吃饭");
+        System.out.println("吃饭 吃饭 吃饭");
     }
 }
